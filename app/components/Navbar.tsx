@@ -52,7 +52,7 @@ const Navbar = () => {
 						/>
 					</Link>
 					<p className="text-white text-[18px] font-bold cursor-pointer flex">
-						PN &nbsp; <span className="sm:block hidden ">| PriyanshuCode's</span>
+						PN &nbsp; <span className="sm:block hidden ">| PriyanshuCode&apos;s</span>
 					</p>
 				</div>
 
